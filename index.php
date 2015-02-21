@@ -23,7 +23,7 @@
         </div>
 			<div class="col-sm-8">
 				<h3 class="headerstyle">About SNIST</h3>
-				<p  style="text-align:justify;line-height:2.0em">The Sreenidhi Institute of Science and Technology (SNIST) is a technical institute located in Hyderabad, Telangana, India. It was affiliated to the Jawaharlal Nehru Technological University, Hyderabad (JNTUH) till 2009. From 2010 the institution attained autonomous status and it is the first college under JNTUH to get that status. The college is ranked 30 in India among self-financing engineering institutes.
+				<p  style="text-align:justify;line-height:2.0em">Hello, The Sreenidhi Institute of Science and Technology (SNIST) is a technical institute located in Hyderabad, Telangana, India. It was affiliated to the Jawaharlal Nehru Technological University, Hyderabad (JNTUH) till 2009. From 2010 the institution attained autonomous status and it is the first college under JNTUH to get that status. The college is ranked 30 in India among self-financing engineering institutes.
 SNIST was established in 1997 with the approval of All India Council for Technical Education (AICTE), Government of Andhra Pradesh, and is affiliated to Jawaharlal Nehru Technological University, Hyderabad. SNIST is sponsored by the Sree Education Society of the Sree Group of Industries.
 It runs undergraduate and postgraduate programs and is engaged in research activity leading to Ph.D. Sreenidhi is recognized by the Department of Scientific and Industrial Research as a scientific and industrial research organization.
 The institution was accredited by NBA of AICTE within 5 years of its existence. It has been receiving World Bank assistance under Technical Education Quality Implementation Program (TEQIP).</p>
